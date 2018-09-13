@@ -2,13 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
+    <link>https://uraway.github.io/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://uraway.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Circleci</title>
+      <link>https://uraway.github.io/categories/circleci/</link>
+      <pubDate>Wed, 12 Sep 2018 15:09:28 +0800</pubDate>
+      
+      <guid>https://uraway.github.io/categories/circleci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://uraway.github.io/categories/development/</link>
+      <pubDate>Wed, 12 Sep 2018 15:09:28 +0800</pubDate>
+      
+      <guid>https://uraway.github.io/categories/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Github Pages</title>
+      <link>https://uraway.github.io/categories/github-pages/</link>
+      <pubDate>Wed, 12 Sep 2018 15:09:28 +0800</pubDate>
+      
+      <guid>https://uraway.github.io/categories/github-pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://uraway.github.io/categories/hugo/</link>
+      <pubDate>Wed, 12 Sep 2018 15:09:28 +0800</pubDate>
+      
+      <guid>https://uraway.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
